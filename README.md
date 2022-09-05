@@ -5,6 +5,12 @@ The goal of this project is to understand the Foreign direct
 investment in India for the last 22 years from 2000-01
 to 2021-22.
 
+## What is FPI?
+
+- Foreign Investment inflow is an important reason for India’s economic growth. So to simplify compliance requirements and have uniform guidelines for various categories of foreign investors like Foreign Institutional Investors (FIIs), Sub Accounts and Qualified Foreign Investors (QFIs) merged into a new investor class termed as Foreign Portfolio Investors (FPIs).
+- SEBI has authorized NSDL to monitor of these Group investment and various data related to FPI activities to be displayed on NSDL web portal.
+- NSDL provides this data at an interval of 15 days.
+
 # Problem Statement ❓
 
 Investment is a game of understanding historic data of investment objects under
