@@ -20,11 +20,7 @@ to find the equilibrium investment.
 
 ## Dataset 📀
 
-https://data.gov.in/resource/financial-year-wise-fdi-equity-inflows-2000-01-2016-17
-
-https://data.gov.in/resource/sector-wise-foreign-direct-investment-fdi-equity-inflow-april-2017-november-2020-ministry
-
-https://pib.gov.in/PressReleasePage.aspx?PRID=1794840
+[NSDL FPI REPORT](https://www.fpi.nsdl.co.in/web/Default.aspx)
 
 
 # Technology �
